@@ -1,0 +1,14 @@
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\bin\Debug\net8.0\commandPattern.exe
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\bin\Debug\net8.0\commandPattern.deps.json
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\bin\Debug\net8.0\commandPattern.runtimeconfig.json
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\bin\Debug\net8.0\commandPattern.dll
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\bin\Debug\net8.0\commandPattern.pdb
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.AssemblyInfoInputs.cache
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.AssemblyInfo.cs
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.dll
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\refint\commandPattern.dll
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.pdb
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\commandPattern.genruntimeconfig.cache
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\commandPattern\obj\Debug\net8.0\ref\commandPattern.dll
