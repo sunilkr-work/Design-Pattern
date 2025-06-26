@@ -1,0 +1,13 @@
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\Sunil.Kumar\Desktop\Target Shubh\Design Pattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
